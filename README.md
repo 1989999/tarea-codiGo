@@ -1,2 +1,2 @@
-# tarea-codiGo
+# Tarea-codiGo
 landing page
